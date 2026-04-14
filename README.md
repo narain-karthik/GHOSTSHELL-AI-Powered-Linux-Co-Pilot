@@ -38,7 +38,7 @@ When a user asks a question, the Agent automatically decides the correct series 
 
 <div align="center">
   <!-- NOTE: Save the provided diagram image in your directory as 'architecture_flow.png' -->
-  <img src="img\1.png" alt="LLM Linux agent request flow"/>
+  <img src="img\Level 1.png" alt="LLM Linux agent request flow"/>
 </div>
 
 ### VPS Connection Architecture
@@ -46,7 +46,7 @@ The dashboard can be operated from anywhere (Mobile, Desktop) via HTTPS. The Fla
 
 <div align="center">
   <!-- NOTE: Save the provided diagram image in your directory as 'architecture_vps.png' -->
-  <img src="img\2.png" alt="VPS Connection Architecture"/>
+  <img src="img\Level 2.png" alt="VPS Connection Architecture"/>
 </div>
 
 ---
