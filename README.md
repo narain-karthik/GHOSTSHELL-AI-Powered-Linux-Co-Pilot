@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img\logo.png" alt="GhostShell Logo" width="200"/>
+  <img src="img\logo.png" alt="GhostShell Logo" width="300"/>
   
   <h1>👻 GhostShell AI</h1>
   <p><strong>Natural language → Kernel-level Linux control via LLMs</strong></p>
