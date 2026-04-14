@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="GhostShell Logo" width="200"/>
+  <img src="AI%20Logo.png" alt="GhostShell Logo" width="200"/>
   
   <h1>👻 GhostShell AI</h1>
   <p><strong>Natural language → Kernel-level Linux control via LLMs</strong></p>
@@ -23,6 +23,7 @@
     *   **💬 Co-Pilot Terminal**: Interactive terminal hooked to the LLM agent.
     *   **🧠 Local LLM Manager**: Dynamically list, inspect, and delete local models hosted on Ollama directly from the UI.
     *   **🗡️ Kali Arsenal Scanner**: Enumerate and interact with graphical penetration testing assets installed on the target machine.
+*   **Persistent SQLite Memory**: All conversations, executed commands, and raw results are persisted locally in `ghostshell.db`. GhostShell remembers your context across server restarts, creating a high-quality dataset for future LLM self-training.
 *   **Intelligent Safety Filter**: Employs a strict RegEx-based safety filter to hard-block potentially destructive commands (`rm -rf`, `dd`, etc.) before they hit the executor.
 *   **Seamless Reverse Tunnels**: Effortlessly connect your local Windows desktop to headless remote VMs (using tools like `ngrok`) dynamically—no manual routing required.
 
